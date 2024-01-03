@@ -1,0 +1,2 @@
+userId,userName,emailId,phoneNumber,movieTitle,releaseDate,duration,movieSlotId,movieStartTime,movieEndTime,ticketCount,bookingId,bookingStatus,paymentId,transactionId,totalAmount,status,paymentIntent,paymentMethodTypes,paymentStatus
+1,mohamed,mohamed6@gmail.com,9500280473,ben10,Fri Oct 20 2023 05:30:00 GMT+0530 (India Standard Time),3 hrs,6,02:00:00,05:00:00,2,12,booked,15,cs_test_a1Zmyx56Fiy6JszG7f8YnxxNacePDqn3p6nVWPgJlCVCSl0L6pkskmUrgP,544,544,pi_3OI6lRSECz6JYi9q0VP2sln7,card,paid

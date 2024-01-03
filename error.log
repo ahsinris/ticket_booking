@@ -1,0 +1,222 @@
+{"level":"error","message":"Signup failed: user already exist"}
+{"level":"error","message":"Signup failed: user already exist"}
+{"level":"error","message":"Signup failed: user already exist","timestamp":"2023-11-17 12:27:37"}
+{"level":"error","message":"Signup failed: user already exist","timestamp":"2023-11-17 15:00:37"}
+{"level":"error","message":"Signup failed: user already exist","timestamp":"2023-11-17 15:01:56"}
+{"level":"error","message":"Error in signup controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-17 15:06:05"}
+{"level":"error","message":"Signup failed: user already exist","timestamp":"2023-11-17 15:12:43"}
+{"level":"error","message":"Signup failed: user already exist","timestamp":"2023-11-17 15:13:14"}
+{"level":"error","message":"Signup failed: user already exist","timestamp":"2023-11-17 15:13:40"}
+{"level":"error","message":"Signup failed: user already exist","timestamp":"2023-11-17 15:19:06"}
+{"level":"error","message":"Error in signup controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-17 15:28:13"}
+{"level":"error","message":"Signup failed: user already exist","timestamp":"2023-11-17 15:28:32"}
+{"level":"error","message":"Error in movie controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-17 18:58:45"}
+{"level":"error","message":"Error in movie controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-17 18:59:17"}
+{"level":"error","message":"Error in movie controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-17 19:00:27"}
+{"level":"error","message":"Error in movie controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-20 15:04:20"}
+{"level":"error","message":"Error in movie controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-20 15:10:01"}
+{"level":"error","message":"Error in movie controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-20 15:12:09"}
+{"level":"error","message":"Error in movie controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-20 15:15:16"}
+{"level":"error","message":"Error in movie controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-20 15:17:29"}
+{"level":"error","message":"Error in movie controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-20 15:17:47"}
+{"level":"error","message":"Error in movie controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-20 15:18:41"}
+{"level":"error","message":"Error in movie controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-20 15:22:39"}
+{"level":"error","message":"Error in movie controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-20 15:25:40"}
+{"level":"error","message":"Error in BookingController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-20 15:43:24"}
+{"level":"error","message":"Error in BookingController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-20 16:40:30"}
+{"level":"error","message":"Error in BookingController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-20 16:41:12"}
+{"level":"error","message":"Error in ShowMoviesController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-20 17:29:37"}
+{"level":"error","message":"Error in ShowMoviesController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-20 17:40:10"}
+{"level":"error","message":"Error in ShowMoviesController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-20 17:40:47"}
+{"level":"error","message":"Error in ShowMoviesController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-20 17:41:25"}
+{"level":"error","message":"Error in BookingController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-21 10:59:50"}
+{"level":"error","message":"Error in BookingController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-21 11:01:43"}
+{"level":"error","message":"failed to fetch  booking movies details this movie doesnot run on this slot time","timestamp":"2023-11-21 11:31:24"}
+{"level":"error","message":"failed to fetch  booking movies details this movie doesnot exist","timestamp":"2023-11-21 11:31:39"}
+{"level":"error","message":"failed to fetch  booking movies details this movie_slot doesnot exist","timestamp":"2023-11-21 12:05:40"}
+{"level":"error","message":"Signup failed: user already exist","timestamp":"2023-11-21 12:07:30"}
+{"level":"error","message":"Error in signup controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-21 12:18:03"}
+{"level":"error","message":"Error in signup controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-21 12:20:19"}
+{"level":"error","message":"Signup failed: user already exist","timestamp":"2023-11-21 12:22:54"}
+{"level":"error","message":"Error in BookingController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-21 12:37:53"}
+{"level":"error","message":"Error in BookingController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-21 12:38:31"}
+{"level":"error","message":"Error in BookingController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-21 12:38:40"}
+{"level":"error","message":"Signup failed: user already exist","timestamp":"2023-11-21 12:40:45"}
+{"level":"error","message":"Error in BookingController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-21 12:40:59"}
+{"level":"error","message":"Error in update controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-21 14:28:47"}
+{"level":"error","message":"Error in update controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-21 14:28:52"}
+{"level":"error","message":"Signup failed: user already exist","timestamp":"2023-11-21 14:43:26"}
+{"level":"error","message":"Login failed: kindly register first","timestamp":"2023-11-21 14:43:29"}
+{"level":"error","message":"Signup failed: user already exist","timestamp":"2023-11-21 17:23:18"}
+{"level":"error","message":"Error in resetPasswordController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-21 22:02:49"}
+{"level":"error","message":"Error in forgetPasswordController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 11:52:22"}
+{"level":"error","message":"Error in forgetPasswordController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 11:53:16"}
+{"level":"error","message":"Error in forgetPasswordController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 11:53:26"}
+{"level":"error","message":"Error in forgetPasswordController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 11:54:15"}
+{"level":"error","message":"Error in forgetPasswordController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 11:55:20"}
+{"level":"error","message":"Error in forgetPasswordController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 11:56:03"}
+{"level":"error","message":"Error in forgetPasswordController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 11:57:16"}
+{"level":"error","message":"Error in forgetPasswordController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 11:57:58"}
+{"level":"error","message":"Error in resetPasswordController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 12:04:39"}
+{"level":"error","message":"Error in resetPasswordController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 12:06:18"}
+{"level":"error","message":"Error in BookingController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 12:52:20"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 14:48:22"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 14:49:25"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 14:50:49"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 14:52:03"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 14:58:58"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 15:00:16"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 15:01:03"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 15:02:06"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 15:02:21"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 15:06:48"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 15:07:42"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 15:08:27"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 15:08:59"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 15:12:41"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 15:15:26"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 15:16:18"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 15:25:17"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 15:27:13"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 15:27:47"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 15:27:58"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 15:30:41"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 15:31:07"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 15:31:31"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 15:32:11"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 15:35:22"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 15:36:02"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 16:53:28"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 16:53:52"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 16:56:33"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 17:15:17"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 17:15:49"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 17:17:08"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 17:20:06"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 17:27:54"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 17:32:29"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 17:32:57"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 17:39:54"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 17:40:36"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 17:40:57"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 17:45:58"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 17:47:11"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 17:47:51"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 17:57:09"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-22 18:31:40"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-23 11:44:12"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-23 11:48:08"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-23 11:49:03"}
+{"level":"error","message":"Error in paymentController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-23 12:05:57"}
+{"level":"error","message":"payment failed undefined","timestamp":"2023-11-23 14:56:05"}
+{"level":"error","message":"Error in paymentController: Invalid status code: undefined","timestamp":"2023-11-23 14:56:05"}
+{"level":"error","message":"Error in paymentController: Service.paymentService is not a function","timestamp":"2023-11-24 12:23:40"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-24 12:34:09"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-24 12:34:49"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-24 12:37:36"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-24 12:39:22"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-24 12:42:59"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-24 12:43:49"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-24 12:44:40"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-24 12:46:55"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-24 12:51:27"}
+{"level":"error","message":"payment failed: payment failed","timestamp":"2023-11-24 12:52:13"}
+{"level":"error","message":"Error in Payment controller: Response is not defined","timestamp":"2023-11-24 12:52:13"}
+{"level":"error","message":"payment failed: payment failed","timestamp":"2023-11-24 12:53:10"}
+{"level":"error","message":"payment failed: payment failed","timestamp":"2023-11-24 12:55:54"}
+{"level":"error","message":"payment failed: payment failed","timestamp":"2023-11-24 15:29:52"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-24 15:59:33"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-24 16:04:58"}
+{"level":"error","message":"payment failed: payment failed","timestamp":"2023-11-24 16:07:02"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-24 16:09:41"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-24 16:12:21"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-24 16:12:46"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-24 16:14:20"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-24 16:15:21"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-24 16:44:45"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-24 16:52:55"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-24 16:54:19"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-24 16:56:28"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-24 17:05:00"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-24 17:05:37"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-24 17:06:06"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-24 18:00:53"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-24 18:25:08"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-27 17:05:06"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-27 17:06:37"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-27 17:16:09"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-27 17:17:00"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-27 17:22:06"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-27 17:22:45"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-27 17:23:32"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-27 17:36:18"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-27 17:36:42"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-27 17:39:34"}
+{"level":"error","message":"payment failed: payment failed","timestamp":"2023-11-27 17:41:02"}
+{"level":"error","message":"payment failed: payment failed","timestamp":"2023-11-27 17:42:18"}
+{"level":"error","message":"payment failed: payment failed","timestamp":"2023-11-27 17:53:13"}
+{"level":"error","message":"payment failed: Payment failed. Check server logs for details.","timestamp":"2023-11-27 17:59:32"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-27 18:01:59"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-27 18:04:10"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-27 18:04:39"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-27 18:05:21"}
+{"level":"error","message":"payment failed: Payment failed. Check server logs for details.","timestamp":"2023-11-27 19:08:35"}
+{"level":"error","message":"payment failed: Payment failed. Check server logs for details.","timestamp":"2023-11-27 19:11:54"}
+{"level":"error","message":"payment failed: Payment failed. Check server logs for details.","timestamp":"2023-11-28 10:56:19"}
+{"level":"error","message":"payment failed: Payment failed. Check server logs for details.","timestamp":"2023-11-28 11:00:03"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-28 11:05:00"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-28 11:06:26"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-28 11:07:53"}
+{"level":"error","message":"payment failed: Payment failed. Check server logs for details.","timestamp":"2023-11-28 11:28:48"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-28 11:29:25"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-28 12:04:19"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-28 12:05:04"}
+{"level":"error","message":"payment failed: Payment failed. Check server logs for details.","timestamp":"2023-11-28 12:19:01"}
+{"level":"error","message":"payment failed: Payment failed. Check server logs for details.","timestamp":"2023-11-28 12:19:44"}
+{"level":"error","message":"payment failed: Payment failed. Check server logs for details.","timestamp":"2023-11-28 12:20:06"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-28 12:26:29"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-28 12:27:13"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-28 12:27:57"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-28 12:30:23"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'success' of undefined","timestamp":"2023-11-28 12:32:11"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'success' of undefined","timestamp":"2023-11-28 12:34:26"}
+{"level":"error","message":"Error in Payment controller: Cannot read property 'success' of undefined","timestamp":"2023-11-28 12:45:56"}
+{"level":"error","message":"Error in Payment controller: error is not defined","timestamp":"2023-11-28 15:50:24"}
+{"level":"error","message":"payment failed: error for creating session.","timestamp":"2023-11-28 15:51:31"}
+{"level":"error","message":"payment failed: error for creating session.","timestamp":"2023-11-28 15:54:50"}
+{"level":"error","message":"payment failed: error for creating session.","timestamp":"2023-11-28 16:49:46"}
+{"level":"error","message":"payment failed: error for creating session.","timestamp":"2023-11-28 16:53:09"}
+{"level":"error","message":"payment failed: error for creating session.","timestamp":"2023-11-28 16:53:25"}
+{"level":"error","message":"payment failed: error for creating session.","timestamp":"2023-11-28 17:06:46"}
+{"level":"error","message":"payment failed: error for creating session.","timestamp":"2023-11-28 17:07:35"}
+{"level":"error","message":"payment failed: error for creating session.","timestamp":"2023-11-28 17:08:21"}
+{"level":"error","message":"payment failed: error for creating session.","timestamp":"2023-11-28 17:25:26"}
+{"level":"error","message":"payment failed: error for creating session.","timestamp":"2023-11-28 17:26:00"}
+{"level":"error","message":"Error in sucessPayment controller: stripe is not defined","timestamp":"2023-11-29 07:20:22"}
+{"level":"error","message":"Error in BookingController: Cannot read property 'sucess' of undefined","timestamp":"2023-11-29 11:54:18"}
+{"level":"error","message":"payment failed: error for creating session.","timestamp":"2023-11-29 12:15:05"}
+{"level":"error","message":"payment failed: error for creating session.","timestamp":"2023-11-29 12:16:24"}
+{"level":"error","message":"payment failed: error for creating session.","timestamp":"2023-11-29 12:16:53"}
+{"level":"error","message":"Error in sucessPayment controller: WHERE parameter \"uuid\" has invalid \"undefined\" value","timestamp":"2023-11-29 12:40:39"}
+{"level":"error","message":"Error in sucessPayment controller: WHERE parameter \"uuid\" has invalid \"undefined\" value","timestamp":"2023-11-29 12:41:29"}
+{"level":"error","message":"Error in sucessPayment controller: Support for `{where: 'raw query'}` has been removed.","timestamp":"2023-11-29 12:49:33"}
+{"level":"error","message":"Error in sucessPayment controller: Cannot read property 'dataValues' of null","timestamp":"2023-11-29 12:54:19"}
+{"level":"error","message":"Error in sucessPayment controller: Cannot read property 'stripe_payment_id' of null","timestamp":"2023-11-29 12:54:34"}
+{"level":"error","message":"Error in sucessPayment controller: Cannot read property 'dataValues' of null","timestamp":"2023-11-29 12:56:53"}
+{"level":"error","message":"Error in sucessPayment controller: Cannot read property 'dataValues' of null","timestamp":"2023-11-29 13:24:35"}
+{"level":"error","message":"Error in sucessPayment controller: Stripe: Argument \"session\" must be a string, but got: undefined (on API request to `GET /v1/checkout/sessions/{session}`)","timestamp":"2023-11-29 13:44:03"}
+{"level":"error","message":"Error in sucessPayment controller: Stripe: Argument \"session\" must be a string, but got: undefined (on API request to `GET /v1/checkout/sessions/{session}`)","timestamp":"2023-11-29 13:48:25"}
+{"level":"error","message":"Error in sucessPayment controller: Stripe: Argument \"session\" must be a string, but got: undefined (on API request to `GET /v1/checkout/sessions/{session}`)","timestamp":"2023-11-29 13:49:36"}
+{"level":"error","message":"Error in sucessPayment controller: Stripe: Argument \"session\" must be a string, but got: undefined (on API request to `GET /v1/checkout/sessions/{session}`)","timestamp":"2023-11-29 13:50:06"}
+{"level":"error","message":"Error in sucessPayment controller: Stripe: Argument \"session\" must be a string, but got: undefined (on API request to `GET /v1/checkout/sessions/{session}`)","timestamp":"2023-11-29 13:51:26"}
+{"level":"error","message":"Error in sucessPayment controller: Stripe: Argument \"session\" must be a string, but got: undefined (on API request to `GET /v1/checkout/sessions/{session}`)","timestamp":"2023-11-29 13:54:09"}
+{"level":"error","message":"payment failed: error for creating session.","timestamp":"2023-11-29 16:39:30"}
+{"level":"error","message":"Error in sucessPayment controller: Unknown column 'payme/nt_id' in 'field list'","timestamp":"2023-11-29 17:25:39"}
+{"level":"error","message":"Error in sucessPayment controller: Unknown column 'payme/nt_id' in 'field list'","timestamp":"2023-11-29 17:36:18"}
+{"level":"error","message":"Error in sucessPayment controller: Unknown column 'payme/nt_id' in 'field list'","timestamp":"2023-11-29 17:43:00"}
+{"level":"error","message":"payment failed: error for creating session.","timestamp":"2023-11-29 18:25:09"}
+{"level":"error","message":"Error in sucessPayment controller: Unknown column 'payme/nt_id' in 'field list'","timestamp":"2023-11-29 18:26:41"}
+{"level":"error","message":"Signup failed: user already exist","timestamp":"2023-11-29 19:17:03"}
+{"level":"error","message":"Error in sucessPayment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-29 19:19:59"}
+{"level":"error","message":"Error in sucessPayment controller: Cannot read property 'sucess' of undefined","timestamp":"2023-11-29 19:21:53"}
+{"level":"error","message":"Error in sucessPayment controller: The argument passed to findOne must be an options object, use findByPk if you wish to pass a single primary key value","timestamp":"2023-11-30 12:49:30"}
